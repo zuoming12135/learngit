@@ -4,4 +4,4 @@ change --------
 second change--------
 
 
-git tracks changes .
+git tracks changes all files
